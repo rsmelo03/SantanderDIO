@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./imgs/apple-button.jpg');
+    background-image: url('./imgs/astore.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./imgs/google-pay-button.JPG');
+    background-image: url('./imgs/gplay.png');
 }
 
 /* Responsidade */
